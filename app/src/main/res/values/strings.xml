@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="money">Amount</string>
+    <string name="moneynum">Amount</string>
+    <string name="numberofPax">Number of Pax</string>
+    <string name="numberofPaxnum">Pax</string>
+    <string name="NoSVSbtn">NO SVS</string>
+    <string name="GSTbtn">GST</string>
+    <string name="discount">Discount(%)</string>
+    <string name="discountpercentage">Percentage</string>
+    <string name="paymoney">Cash</string>
+    <string name="payQR">PayNow</string>
+    <string name="splitbtn">Split</string>
+    <string name="resetbtn">Reset</string>
+    <string name="totalBill">Total Bill:</string>
+    <string name="indentation" />
+    <string name="eachPay">Each Pay:</string>
+</resources>
